@@ -1,6 +1,6 @@
 Eu me chamo Ísis Enya ☕
 
-- 👀Sobre mim:
+‣•⩥ 👀Sobre mim:
 
       Pronomes: Ela/dela
       
@@ -15,7 +15,7 @@ Eu me chamo Ísis Enya ☕
       Curiosidade: voce pode encomendar via twitter e instagram artes e web designers (logos, layouts, thumbmaker)
       
 ![coffe](https://user-images.githubusercontent.com/106176997/182226617-07fd908b-6798-449d-aea3-167ea3393e29.gif)
- - 👩‍🎓Minhas funcionalidades:
+ ‣•⩥ 👩‍🎓Minhas funcionalidades:
 
      📖 Eu estou aprimorando meus aprendizados nas areás de progamação.
      
@@ -27,5 +27,5 @@ Eu me chamo Ísis Enya ☕
      
      💬 Pode me consutar sobre progamação em python, criação de jogos, web designer.
 
--Você pode me achar no: 🦚twitter e no 📷instagram (@_Gisisi_) 
+‣•⩥ Você pode me achar no: 🦚twitter e no 📷instagram (@_Gisisi_) 
 
