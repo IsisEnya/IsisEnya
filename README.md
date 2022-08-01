@@ -1,15 +1,16 @@
-### Hi there 👋
+Eu me chamo Ísis Enya ☕
 
-<!--
-**IsisEnya/IsisEnya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👀Sobre mim:
+      Fasso curso tecnico de informática na satc
+      Tenho 16 anos de idade
+      Trabalho com progamação á 8 messes 
+      
+      
+- 📖 Eu estou aprimorando meus aprendizados nas areás de progamação.
+- 💻 Estou aprendendo as linguagens de: Python, Java.
+- 🏢Disponivel em trabalhar com qualquer empresa que nessecita ajuda
+- 🤔 Gostria de me especializar Python
+- 💬 Pode me consutar sobre progamação em python, criação de 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
