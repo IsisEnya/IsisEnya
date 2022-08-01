@@ -1,4 +1,4 @@
-Eu me chamo Ísis Enya ☕
+Eu me chamo Ísis Enya e eu gosto de café e gatos🐈☕
 
 ‣•⩥ 👀Sobre mim:
 
@@ -14,7 +14,10 @@ Eu me chamo Ísis Enya ☕
       
       Curiosidade: voce pode encomendar via twitter e instagram artes e web designers (logos, layouts, thumbmaker)
       
+      Sou boa no que eu gosto de fazer ✨
+      
 ![coffe](https://user-images.githubusercontent.com/106176997/182226617-07fd908b-6798-449d-aea3-167ea3393e29.gif)
+ 
  ‣•⩥ 👩‍🎓Minhas funcionalidades:
 
      📖 Eu estou aprimorando meus aprendizados nas areás de progamação.
@@ -28,4 +31,7 @@ Eu me chamo Ísis Enya ☕
      💬 Pode me consutar sobre progamação em python, criação de jogos, web designer.
 
 ‣•⩥ Você pode me achar no: 🦚twitter e no 📷instagram (@_Gisisi_) 
+
+![gatinho-gato](https://user-images.githubusercontent.com/106176997/182231365-644a0ad1-329e-499d-b436-5c87c01e9d3b.gif)
+‣•⩥ Eu quando não consigo achar o erro do codigo
 
