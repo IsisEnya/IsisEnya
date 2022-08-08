@@ -10,7 +10,7 @@ Eu me chamo Ísis Enya e eu gosto de café e gatos🐈☕
       
       Trabalho com programação á 8 messes
       
-      Trabalho com web designer á 2 anos
+      Trabalho com web designer á 4 anos
       
       Curiosidade: você pode encomendar via twitter e instagram artes e web designers (logos, layouts, thumbmaker)
       
